@@ -2,7 +2,7 @@
 Work towards a multithreaded pathtracer and volume raymarcher.
 Currently it supports triangulated meshes, implicit shapes, signed distance fields, volumes from triangulated meshes, color fields with a variety of gradients, point lights and ambient light, as well as transformations (scale, rotate, translate, shear) and transformation groups, and CSG operations.
 
-###### Images
+## Images
 (The later images are old)
 
 ![testOut6](https://user-images.githubusercontent.com/44931507/223159155-8c37e3af-7ccb-42f4-a859-b10ebd95e6a1.png)
