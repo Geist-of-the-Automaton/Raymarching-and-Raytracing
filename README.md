@@ -5,9 +5,9 @@ Currently it supports triangulated meshes, implicit shapes, signed distance fiel
 ## Images
 (The later images are old)
 
-Perlin Noise Cloud:
+A Cloud:
 ![cloudy](https://user-images.githubusercontent.com/44931507/224313644-822f36cb-c80f-4e58-9866-8162d7cc8ad6.png)
-Smokey Perlin Noise Orb:
+Smokey Orb:
 ![cloudy2](https://user-images.githubusercontent.com/44931507/224477289-4edd288f-493d-40ad-bfe6-b95b8adcb6be.png)
 CSG character with 3 point lighting:
 ![character](https://user-images.githubusercontent.com/44931507/223661707-db86f988-1670-4901-b912-6c97c5af8c4e.png)
