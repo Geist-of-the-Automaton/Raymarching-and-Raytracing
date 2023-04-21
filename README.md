@@ -5,7 +5,7 @@ Currently it supports triangulated meshes, implicit shapes, signed distance fiel
 ## Images
 (The later images are old)
 
-Animated Wisp:
+Animated Wisp Video:
 ![Wisp](https://user-images.githubusercontent.com/44931507/233517754-cad1da19-7bde-4af0-9045-9dafd79432fc.mov)
 
 A Cloud:
